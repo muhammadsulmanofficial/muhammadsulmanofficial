@@ -273,7 +273,7 @@ Collection of frontend practice projects including Amazon Clone, Calculator, Gam
 ---
 
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
